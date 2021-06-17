@@ -2,6 +2,23 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Ellipsis component
+
+**How to try this app for Ellipsis?**
+
+Type the text in the input field. 
+
+### If your text exceeds 20 character, the text will get ellipsed in and you can find the full text by two ways:
+
+  *Hover over the text display(tooltip will be displayed)*
+    
+  ![image](https://user-images.githubusercontent.com/22976594/122434066-0ffa3800-cf97-11eb-8081-a887bbb74add.png)
+
+  *Click on the text, full text will get displayed*
+  
+  ![image](https://user-images.githubusercontent.com/22976594/122434154-230d0800-cf97-11eb-93d4-9866facae53d.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
